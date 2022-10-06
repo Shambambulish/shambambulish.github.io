@@ -28,8 +28,9 @@ git add .
 git commit -m "no footnotes, gotcha"
 git push origin main
 ```
+stopped writing these, the joke got old, see commit history for hijinks
 
-## Pros and cons of watching The Office*
+## Pros and cons of watching The Office [^1]
 Pros
 - Michael Scott
 - Funny
@@ -37,4 +38,4 @@ Pros
 Cons
 - You will not have any more of it to watch once you are done
 
-<sub>*I am not sponsored by BBC or The Office and have – in fact – never seen an episode of it. I cannot confirm whether or not it is worth your time, I just thought this would be a funny thing to write.</sub>
+[^1]: <sub>I am not sponsored by BBC or The Office and have – in fact – never seen an episode of it. I cannot confirm whether or not it is worth your time, I just thought this would be a funny thing to write.</sub>
