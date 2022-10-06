@@ -7,7 +7,8 @@
 
 
 
-The commands I used in the creation of this site:[^2] [^2]: I know this is not proper git etiquette but doing things wrong is fun sometimes.
+The commands I used in the creation of this site:[^2] 
+[^2]: I know this is not proper git etiquette but doing things wrong is fun sometimes.
 ```
 git clone https://github.com/Shambambulish/shambambulish.github.io.git
 git add .
@@ -18,6 +19,9 @@ git commit -m "The Real Michael Scott"
 git push origin main
 git add .
 git commit -m "haha typo"
+git push origin main
+git add .
+git commit -m "oh that doesnt work"
 git push origin main
 ```
 
