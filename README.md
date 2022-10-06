@@ -1,6 +1,6 @@
 # This is my [GitHub Pages](https://pages.github.com/) site for a course task.
-> "I'm not <sup>super</sup>stitious, but I am a <sub>little</sub> stitious"[^1]
-— Michael Scott (Steve Carrell), The Office
+> "I'm not <sup>super</sup>stitious, but I am a <sub>little</sub> stitious"
+— Michael Scott (Steve Carrell), The Office[^1]
 
 ![Michael Scott](assets/images/michaelscott.png)
 [^1]: I found this by searching "meme quotes" on Google in order to find something to write on this page.
@@ -23,12 +23,16 @@ git push origin main
 git add .
 git commit -m "oh that doesnt work"
 git push origin main
+git add .
+git commit -m "this is why you test locally"
+git push origin main
 ```
 
 ## Pros and cons of watching The Office[^3]
 Pros
 - Michael Scott
 - Funny
+
 Cons
 - You will not have any more of it to watch once you are done
 
